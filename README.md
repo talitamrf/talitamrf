@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">💻 Formada no curso técnico de Desenvolvimento de Sistemas pela ETEC<br>👩🏻‍💻 Atualmente cursando Engenheira da Software 1/8<br>🎮 Amante da Lua e de jogos de JRPG<br>📚 Em constante aprendizado, sempre procuro aprender mais!<br>🧠 Gosto bastante de desenvolvimento, principalmente de agentes de IA e Web<br><br>Obs: Perfil em construção!!</p>
+<p align="left">💻 Formada no curso técnico de Desenvolvimento de Sistemas pela ETEC<br>👩🏻‍💻 Atualmente cursando Engenheira de Software 1/8<br>🎮 Amante da Lua e de jogos de JRPG<br>📚 Em constante aprendizado, sempre procuro aprender mais!<br>🧠 Gosto bastante de desenvolvimento, principalmente de agentes de IA e Web<br><br>Obs: Perfil em construção!!</p>
 
 ###
 
