@@ -1,4 +1,4 @@
-# Olá! Eu sou a Talita!
+# Olá! Eu sou a Talita! ♡ 
 
 ## Sobre mim
 
