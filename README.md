@@ -46,15 +46,14 @@
 <div align="center">
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api?username=talitamrf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&icon_color=512BD4&locale=pt-br"
+    src="https://github-stats-extended.vercel.app/api?username=talitamrf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&icon_color=512BD4&locale=pt-br"
   />
 
   <img
     height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitamrf&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=6"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=talitamrf&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=6"
   />
 </div>
-
 ##
 
 ## 📫 Contato
