@@ -1,8 +1,8 @@
 # Olá! Eu sou a Talita!
 
-<img align="right" height="150" src="https://64.media.tumblr.com/b8374eb680d66a62a70d48691e813c0c/f71671b067f5d1b3-cd/s500x750/e466008212b609a439e8d9f247c66dd6b2df1f12.gif"/>
-
 ## Sobre mim
+
+<img align="right" height="150" src="https://64.media.tumblr.com/b8374eb680d66a62a70d48691e813c0c/f71671b067f5d1b3-cd/s500x750/e466008212b609a439e8d9f247c66dd6b2df1f12.gif" />
 
 💻 Técnica em Desenvolvimento de Sistemas pela ETEC  
 🎓 Atualmente cursando Engenharia de Software  
@@ -12,8 +12,8 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=4001FF" />
-</div> 
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1756C9" />
+</div>
 
 ## Tecnologias e Ferramentas
 
@@ -36,3 +36,7 @@
 ![Git](https://img.shields.io/badge/Git-4001FF?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-512BD4?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-4001FF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1756C9" />
+</div>
