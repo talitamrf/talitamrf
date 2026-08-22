@@ -1,6 +1,6 @@
 # Olá! Eu sou a Talita!
 
-<img align="right" height="150" src="https://64.media.tumblr.com/b8374eb680d66a62a70d48691e813c0c/f71671b067f5d1b3-cd/s500x750/e466008212b609a439e8d9f247c66dd6b2df1f12.gif" />
+<img align="right" height="150" src="https://64.media.tumblr.com/b8374eb680d66a62a70d48691e813c0c/f71671b067f5d1b3-cd/s500x750/e466008212b609a439e8d9f247c66dd6b2df1f12.gif"/>
 
 ## Sobre mim
 
@@ -28,7 +28,8 @@
 ### ☁️ Cloud & Banco de Dados
 
 ![AWS](https://img.shields.io/badge/AWS-4001FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-512BD4?style=for-the-badge&logo=firebase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-512BD4?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-4001FF?style=for-the-badge&logo=firebase&logoColor=white)
 ##
 ### 🛠️ Ferramentas
 
