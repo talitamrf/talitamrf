@@ -24,12 +24,12 @@
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-4001FF?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-512BD4?style=for-the-badge&logo=css3&logoColor=white)
-
+##
 ### ☁️ Cloud & Banco de Dados
 
 ![AWS](https://img.shields.io/badge/AWS-4001FF?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-512BD4?style=for-the-badge&logo=firebase&logoColor=white)
-
+##
 ### 🛠️ Ferramentas
 
 ![Git](https://img.shields.io/badge/Git-4001FF?style=for-the-badge&logo=git&logoColor=white)
