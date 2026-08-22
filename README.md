@@ -54,7 +54,10 @@
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=talitamrf&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=6"
   />
 </div>
-##
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1756C9" />
+</div>
 
 ## 📫 Contato
 
