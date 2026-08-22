@@ -40,3 +40,30 @@
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=5&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=1756C9" />
 </div>
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api?username=talitamrf&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&icon_color=512BD4&locale=pt-br"
+  />
+
+  <img
+    height="180"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=talitamrf&layout=compact&hide_border=true&bg_color=0D1117&title_color=1756C9&text_color=C9D1D9&langs_count=6"
+  />
+</div>
+
+##
+
+## 📫 Contato
+
+<div align="left">
+  <a href="mailto:talitamariafernandes@gmail.com">
+    <img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/talitamrf/">
+    <img src="https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</div>
