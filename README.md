@@ -10,7 +10,7 @@
 🌱 Estou sempre buscando aprender novas tecnologias e colocar esse conhecimento em prática
 
 ###
-<p>
+<p align="left">
   <a href="mailto:talitamariafernandes@gmail.com">
     <img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/talitamrf/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4001ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
