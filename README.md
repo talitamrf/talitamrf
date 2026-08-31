@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/talitamrf/">
-    <img src="https://img.shields.io/badge/LinkedIn-512BD4?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-4001ff?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
 
