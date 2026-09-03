@@ -14,6 +14,9 @@
   <a href="mailto:talitamariafernandes@gmail.com">
     <img src="https://img.shields.io/badge/Email-512BD4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/talitamrf/ target="_blank"><img src="https://img.shields.io/badge/LinkedIn-4001ff?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href="https://talitamrf.github.io/artbook-links/">
+  <img src="https://img.shields.io/badge/OUTROS-5428D8?style=for-the-badge&logo=bookstack&logoColor=white" alt="OUTROS">
+</a>
 </p>
 
 <div>
